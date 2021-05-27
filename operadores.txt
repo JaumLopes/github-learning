@@ -1,0 +1,8 @@
+string
+integer
+float
+double
+boolean
+! (not)
+&& (and)
+|| (or)
